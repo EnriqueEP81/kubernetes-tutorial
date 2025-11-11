@@ -33,7 +33,7 @@ kubectl get services
 minikube ip // docker desktop kebernetes users should access at localhost:31515
 ```
 ```
-kubectl describe
+kubectl describe pods
 ```
 This is an imperative command, not declarative:
 ```
